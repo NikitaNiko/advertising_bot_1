@@ -3,7 +3,7 @@ import asyncio
 from bot_handlers import commands, states, request_to_join, messages
 
 
-bot = Bot("5647971616:AAEUmfKipJ7t2rk-tbIHcYHGfZWNTyg5WaM")
+bot = Bot("BOT_TOKEN")
 
 async def main():
     
